@@ -6,12 +6,13 @@
 </p>
 
 <h3 align="center">Find it. Prove it. Close it.</h3>
-<p align="center"><em>Tìm ra. Chứng minh. Khép lại.</em></p>
 
 <p align="center">
   <a href="https://exploop.io">exploop.io</a>
   &nbsp;&nbsp;|&nbsp;&nbsp;
   <a href="https://github.com/openctemio">Built on OpenCTEM</a>
+  &nbsp;&nbsp;|&nbsp;&nbsp;
+  <a href="https://github.com/exploopio/.github/blob/main/profile/README.vi.md">Tiếng Việt</a>
 </p>
 
 ---
@@ -20,9 +21,6 @@
 
 Exploop runs the same signed images as the open-source [OpenCTEM](https://github.com/openctemio) platform, operated for you, with managed scanning, single sign-on and enterprise add-ons.
 
-**Exploop** là dịch vụ quản lý mức độ phơi nhiễm mối đe doạ liên tục. Exploop chạy trọn vòng lặp CTEM: xác định phạm vi quan trọng, phát hiện bề mặt tấn công bên ngoài và bên trong, xếp ưu tiên theo khả năng khai thác thực tế, xác minh bằng kiểm thử lại và pentest, rồi theo dõi việc khắc phục cho tới khi được xác nhận đã đóng.
-
-Exploop dùng chính các image đã ký của nền tảng mã nguồn mở [OpenCTEM](https://github.com/openctemio), được vận hành sẵn cho bạn, kèm scan được quản lý, đăng nhập một lần (SSO) và các add-on cho doanh nghiệp.
 
 ### The loop
 
